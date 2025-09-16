@@ -45,11 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=ffffff&color=000000&line=ff69b4&point=1e90ff&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 ---
 
 ### 🤝 Let’s build
