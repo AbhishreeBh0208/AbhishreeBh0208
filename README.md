@@ -5,9 +5,8 @@
 ---
 
 <p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://your-portfolio.example.com">Portfolio</a>
+  <a href="abhishreebh.0208@gmail.com">✉️ Email</a> •
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhishree-bhardwaj-302651249)">LinkedIn</a> •
 </p>
 
 ---
