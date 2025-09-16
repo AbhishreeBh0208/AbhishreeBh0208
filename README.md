@@ -28,8 +28,8 @@
 
 ### 🔎 Selected work
 
-* **Play4Impact** — Game mechanics → real-world social impact.
-* **OmniLife** — Smart-contract ULIP + genomic wellness.
+* **Kyndle** — Game mechanics → real-world social impact.
+* **IRIS:Interstellar Rapid Interception System** — Smart-contract ULIP + genomic wellness.
 * **BlackMirror** — Dark-web simulation engine for security testing.
 
 (Links in portfolio)
