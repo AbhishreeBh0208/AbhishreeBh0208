@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="abhishreebh.0208@gmail.com">✉️ Email</a> •
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhishree-bhardwaj-302651249)">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhishree-bhardwaj-302651249">LinkedIn</a> •
 </p>
 
 ---
