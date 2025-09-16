@@ -53,14 +53,6 @@
 
 ---
 
-### ⚡ Animated Touch
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full‑Stack+Web+Developer;AI+%26+ML+Intern;Cybersecurity+Explorer;Data+Science+%26+UI%2FUX+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&pause=1000&size=22" />
-</p>
-
----
-
 ### 🤝 Let’s build
 
 If you’re working on something bold in healthtech, gaming for good, or data‑driven products — let’s connect. Open to collaborations, internships, and equity‑based opportunities.
