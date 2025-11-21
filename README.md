@@ -54,10 +54,6 @@
 
 ---
 
-<br/>
-
----
-
 [email]: [abhishreebh.0208@gmail.com]
 [instagram]: [https://www.instagram.com/bilgehangecici](https://www.instagram.com/abhihihihihi_]
 [linkedin]: [https://www.linkedin.com/in/abhishree-bhardwaj-302651249]
